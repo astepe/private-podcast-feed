@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Sam Harris – Full Episodes (Private)</title>
+    <title>Sam Harris - Full Episodes (Private)</title>
     <link>https://astepe.github.io/private-podcast-feed/</link>
-    <description>My private full-episode feed hosted via Google Drive.</description>
+    <description>My private feed of full Sam Harris episodes hosted on Google Drive.</description>
     <language>en-us</language>
 
     <item>
-      <title>Example Episode – Full Version</title>
+      <title>Example Episode - Full Version</title>
       <enclosure
-        url="https://drive.google.com/uc?export=download&id=16vGdz1c3sxm3CQbHv1JenmTWwO_ivUqI"
+        url="https://drive.google.com/uc?export=download&amp;id=16vGdz1c3sxm3CQbHv1JenmTWwO_ivUqI"
         length="0"
         type="audio/mpeg" />
       <guid>sam-full-001</guid>
@@ -19,3 +19,4 @@
 
   </channel>
 </rss>
+
