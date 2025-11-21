@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sam Harris – Full Episodes (Private)</title>
+    <link>https://YOUR-USERNAME.github.io/private-podcast-feed/</link>
+    <description>My private full-episode feed hosted via Google Drive.</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Example Episode – Full Version</title>
+      <enclosure
+        url="https://drive.google.com/uc?export=download&id=16vGdz1c3sxm3CQbHv1JenmTWwO_ivUqI"
+        length="0"
+        type="audio/mpeg" />
+      <guid>sam-full-001</guid>
+      <pubDate>Mon, 18 Nov 2024 12:00:00 +0000</pubDate>
+      <description>Full subscriber episode.</description>
+    </item>
+
+  </channel>
+</rss>
